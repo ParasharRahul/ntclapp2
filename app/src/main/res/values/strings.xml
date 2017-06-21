@@ -11,4 +11,7 @@
     <string name="nav_subop2">Developers</string>
     <string name="nav_subop1">Share</string>
     <string name="nav_communicate">Communicate</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
