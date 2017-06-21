@@ -3,6 +3,9 @@ package ps1.ntcl.ntclapp2;
 import android.os.Bundle;
 import android.support.design.widget.FloatingActionButton;
 import android.support.design.widget.Snackbar;
+import android.support.v4.app.Fragment;
+import android.support.v4.app.FragmentManager;
+import android.support.v4.app.FragmentTransaction;
 import android.view.View;
 import android.support.design.widget.NavigationView;
 import android.support.v4.view.GravityCompat;
@@ -13,8 +16,17 @@ import android.support.v7.widget.Toolbar;
 import android.view.Menu;
 import android.view.MenuItem;
 
+import ps1.ntcl.ntclapp2.navitems.nav_op1;
+import ps1.ntcl.ntclapp2.navitems.nav_op2;
+import ps1.ntcl.ntclapp2.navitems.nav_op3;
+import ps1.ntcl.ntclapp2.navitems.nav_subop1;
+import ps1.ntcl.ntclapp2.navitems.nav_subop2;
+
 public class MainActivity extends AppCompatActivity
         implements NavigationView.OnNavigationItemSelectedListener {
+
+    Fragment fragment = null;
+    int current_frag_id;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -77,20 +89,28 @@ public class MainActivity extends AppCompatActivity
     @SuppressWarnings("StatementWithEmptyBody")
     @Override
     public boolean onNavigationItemSelected(MenuItem item) {
-        // Handle navigation view item clicks here.
+        FragmentManager fragmentManager = getSupportFragmentManager();
         int id = item.getItemId();
 
         if (id == R.id.nav_op1) {
-            // Handle the camera action
+            setTitle(getString(R.string.nav_op1));
+            fragment = new nav_op1();
         } else if (id == R.id.nav_op2) {
-
+            setTitle(getString(R.string.nav_op2));
+            fragment = new nav_op2();
         } else if (id == R.id.nav_op3) {
-
+            setTitle(getString(R.string.nav_op3));
+            fragment = new nav_op3();
         } else if (id == R.id.nav_share) {
-
+            setTitle(getString(R.string.nav_subop1));
+            fragment = new nav_subop1();
         } else if (id == R.id.nav_dev) {
-
+            setTitle(getString(R.string.nav_subop2));
+            fragment = new nav_subop2();
         }
+        current_frag_id = id;
+        fragmentManager.beginTransaction().setTransition(FragmentTransaction.TRANSIT_FRAGMENT_FADE).commit();
+        fragmentManager.beginTransaction().replace(R.id.content_frame, fragment).commit();
 
         DrawerLayout drawer = (DrawerLayout) findViewById(R.id.drawer_layout);
         drawer.closeDrawer(GravityCompat.START);
