@@ -1,13 +1,41 @@
-<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context="ps1.ntcl.ntclapp2.navitems.nav_op2">
 
-    <!-- TODO: Update blank fragment layout -->
-    <TextView
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:text="@string/hello_blank_fragment" />
+    <RelativeLayout
+        android:id="@+id/n2_relativeLayout1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:gravity="center">
 
-</FrameLayout>
+        <Button
+            android:id="@+id/n2_button1"
+            android:clickable="true"
+            android:layout_width="160dp"
+            android:layout_height="50dp"
+            android:layout_centerHorizontal="true"
+            android:layout_alignParentTop="true"
+            android:gravity="center"
+            android:text="search by location"
+            android:textSize="13sp"
+            android:textAlignment="gravity"/>
+
+        <Button
+            android:id="@+id/n2_button2"
+            android:clickable="true"
+            android:layout_width="160dp"
+            android:layout_height="50dp"
+            android:layout_centerHorizontal="true"
+            android:layout_alignParentBottom="true"
+            android:layout_below="@+id/n2_button1"
+            android:layout_marginTop="20dp"
+            android:gravity="center"
+            android:text="search by region"
+            android:textSize="13sp"
+            android:textAlignment="gravity"/>
+
+    </RelativeLayout>
+ </ScrollView>

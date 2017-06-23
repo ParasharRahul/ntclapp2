@@ -4,7 +4,6 @@
     android:layout_height="match_parent"
     tools:context="ps1.ntcl.ntclapp2.navitems.nav_op3">
 
-    <!-- TODO: Update blank fragment layout -->
     <RelativeLayout
         android:id="@+id/n3_relativeLayout1"
         android:layout_width="match_parent"
@@ -12,6 +11,6 @@
         android:paddingBottom="30dp">
 
 
-    </RelativeLayout>
 
+    </RelativeLayout>
 </ScrollView>
