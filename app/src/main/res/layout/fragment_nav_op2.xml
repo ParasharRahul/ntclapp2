@@ -14,27 +14,27 @@
         <Button
             android:id="@+id/n2_button1"
             android:clickable="true"
-            android:layout_width="160dp"
-            android:layout_height="50dp"
+            android:layout_width="180dp"
+            android:layout_height="60dp"
             android:layout_centerHorizontal="true"
             android:layout_alignParentTop="true"
             android:gravity="center"
-            android:text="search by location"
-            android:textSize="13sp"
+            android:text="@string/n2_search_button1"
+            android:textSize="15sp"
             android:textAlignment="gravity"/>
 
         <Button
             android:id="@+id/n2_button2"
             android:clickable="true"
-            android:layout_width="160dp"
-            android:layout_height="50dp"
+            android:layout_width="180dp"
+            android:layout_height="60dp"
             android:layout_centerHorizontal="true"
             android:layout_alignParentBottom="true"
             android:layout_below="@+id/n2_button1"
             android:layout_marginTop="20dp"
             android:gravity="center"
-            android:text="search by region"
-            android:textSize="13sp"
+            android:text="@string/n2_search_button2"
+            android:textSize="15sp"
             android:textAlignment="gravity"/>
 
     </RelativeLayout>

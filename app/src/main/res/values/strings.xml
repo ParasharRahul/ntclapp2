@@ -9,11 +9,13 @@
     <string name="nav_op2">Store Locator</string>
     <string name="nav_op3">Product Line</string>
     <string name="nav_subop1">Share</string>
-    <string name="nav_subop2">Developers</string>
+    <string name="nav_subop2">Contact Us</string>
     <string name="nav_communicate">Communicate</string>
 
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="n3_selector1">search by location</string>
     <string name="n3_selector2">search by region</string>
+    <string name="n2_search_button1">search by location</string>
+    <string name="n2_search_button2">search by region</string>
 </resources>

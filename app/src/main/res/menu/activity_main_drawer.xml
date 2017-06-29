@@ -20,12 +20,12 @@
     <item android:title="@string/nav_communicate">
         <menu>
             <item
-                android:id="@+id/nav_share"
+                android:id="@+id/nav_subop1"
                 android:icon="@drawable/ic_nav_share"
                 android:title="@string/nav_subop1" />
             <item
-                android:id="@+id/nav_dev"
-                android:icon="@drawable/ic_nav_developer"
+                android:id="@+id/nav_subop2"
+                android:icon="@drawable/ic_nav_contact"
                 android:title="@string/nav_subop2" />
         </menu>
     </item>
