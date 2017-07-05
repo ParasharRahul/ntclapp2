@@ -3,30 +3,138 @@
 
     <item
         is-multidex="false"
-        jar="/home/antisocial/.android/build-cache/23b5aaf9c0cba2da7f113e0611db558a0cc53b90/output/jars/classes.jar"
+        jar="C:\Users\user\.android\build-cache\a077dee0f629915f492ff21a6075058d25d0f71f\output\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="26.0.0"
-        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
-        <dex dex="/home/antisocial/AndroidStudioProjects/ntclapp2/app/build/intermediates/pre-dexed/debug/classes_3167572dfb1b6e8a0d29444d3a67c33c5414778e.jar" />
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="C:\Users\user\Downloads\ntclapp2\app\build\intermediates\pre-dexed\debug\classes_f01d5e4546c61930fba54287189a91a95b9a1b50.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/home/antisocial/.android/build-cache/8b713c28f15a16bd4237e0a562036628c5a1e7e1/output/jars/classes.jar"
+        jar="C:\Users\user\.android\build-cache\b52664991dcdbab45f83fc424f6fa16a8ff4c94d\output\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="26.0.0"
         sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
-        <dex dex="/home/antisocial/AndroidStudioProjects/ntclapp2/app/build/intermediates/pre-dexed/debug/classes_02b2e211585740eee0e3f868c5104c90a8720e51.jar" />
+        <dex dex="C:\Users\user\Downloads\ntclapp2\app\build\intermediates\pre-dexed\debug\classes_f0b24a295a783801863181b5329b27a17e25cd87.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="/home/antisocial/.android/build-cache/c68124f0ec44c2ae84a5eef4bb908edd91ebffdd/output/jars/classes.jar"
+        jar="C:\Users\user\.android\build-cache\c1aa14c346a3c554f754d2011445bd915d61aafb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="C:\Users\user\Downloads\ntclapp2\app\build\intermediates\pre-dexed\debug\classes_b2bb34016314bbaedbd865cf317c4e45d78fad74.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\6092f4effb4d266d0cbf2709eb6024989d110644\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="C:\Users\user\Downloads\ntclapp2\app\build\intermediates\pre-dexed\debug\classes_7c70ca1a803fcffbd3eed96163cf07d55de6bee7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\caa9c8d387d83858eaa00e3897379df103bb5461\output\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="26.0.0"
         sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
-        <dex dex="/home/antisocial/AndroidStudioProjects/ntclapp2/app/build/intermediates/pre-dexed/debug/classes_8061d6eed245a65981def90519c6ec75f6be1c01.jar" />
+        <dex dex="C:\Users\user\Downloads\ntclapp2\app\build\intermediates\pre-dexed\debug\classes_9f05c4749d789aff1c9b3b55008f9e1fcd44ed8f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\46922c6f581295ae08e306a91f7f7efa3461360d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="C:\Users\user\Downloads\ntclapp2\app\build\intermediates\pre-dexed\debug\classes_d57ba4d047e915fe5b917e0df22553804412715b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\7a805d8198e92c4722e739ae9316b6506b991609\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="C:\Users\user\Downloads\ntclapp2\app\build\intermediates\pre-dexed\debug\classes_b03cf0c604f4a69d783bea3302cca782bc6a8af1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\327b74cb45d4e8015b54324f9450f3595531f1b3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\user\Downloads\ntclapp2\app\build\intermediates\pre-dexed\debug\classes_f50c7a9e94ed5c0b5a5a1884955edfc04613add0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\user\Downloads\ntclapp2\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_56cb9135bf1bd704eeaa78bb7e1de36312cfdd96.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="C:\Users\user\Downloads\ntclapp2\app\build\intermediates\pre-dexed\debug\support-annotations-26.0.0-alpha1_8806c4335ed46fab24526672129bd667b9363dcb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\9993a096ed45942ed5f5c57a6c39e488c5ddf699\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="C:\Users\user\Downloads\ntclapp2\app\build\intermediates\pre-dexed\debug\classes_7ee794175196bbc0cfddbfe47c9551ae7e26b548.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\9f74ec8a78ac00f570c04b273734154dc4700329\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\user\Downloads\ntclapp2\app\build\intermediates\pre-dexed\debug\classes_c9b3120175dc267e12d1df2b343f5f9f2051cec4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\a5e0b5b46c932774baf4763ddc767ddcf86b8fae\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="C:\Users\user\Downloads\ntclapp2\app\build\intermediates\pre-dexed\debug\classes_6560a21cf6f174118d2f1f49e5e3f22ed06f9539.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\53888ff9738b669dd869e3738e8de1a2432babc8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="C:\Users\user\Downloads\ntclapp2\app\build\intermediates\pre-dexed\debug\classes_0715f61f2590ae8e4496efffd124a13e4fd22818.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\.android\build-cache\40ea36dd2e51b1d245e7fa60f444e637d0cbdd50\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="C:\Users\user\Downloads\ntclapp2\app\build\intermediates\pre-dexed\debug\classes_c562eb78fb720e9e071e9acf2392b1ea9598b309.jar" />
     </item>
 
 </items>
